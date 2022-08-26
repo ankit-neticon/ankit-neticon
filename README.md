@@ -5,6 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Ankit Sonkar</h1>
 <h3 align="center">I am a fresher & looking for full time opportunity.</h3>
+
 <img align="right" width="300"  src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76114eb526848bfad3f612047634cdc4ebce6c451843&rid=giphy.gif&ct=g" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-neticon&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-neticon" /> </p>
@@ -36,9 +37,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-neticon&show_icons=true&locale=en" alt="ankit-neticon" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-neticon&" alt="ankit-neticon" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-neticon&" alt="ankit-neticon" />
+<img align="right" alt="Coding" width="300"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" ></p>
 
 
  
         
-<img align="right" alt="Coding" width="300"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+
