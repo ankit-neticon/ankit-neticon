@@ -6,8 +6,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Sonkar</h1>
 <h3 align="center">I am a fresher & looking for full time opportunity.</h3>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-neticon&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-neticon" /> </p>
 
 
@@ -15,12 +13,14 @@
 <img align="right" width="300"  src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76114eb526848bfad3f612047634cdc4ebce6c451843&rid=giphy.gif&ct=g" alt="Coding">
 <p align="left"> <a href="https://twitter.com/_ankitsonkar_" target="blank"><img src="https://img.shields.io/twitter/follow/_ankitsonkar_?logo=twitter&style=for-the-badge" alt="_ankitsonkar_" /></a> </p>
 
+<a href="https://g.dev/Ankit-3000">Google Developer 
+<p><img align="left" width="100" src="https://developers.google.com/fonts/images/free_to_use.svg" alt="google developer" /></p></a>
 
 - 🌱 I’m currently learning **JavaScript & Android Development**
 
-- 📫 How to reach me **ankit.vns2000@gmail.com**
+- Google Developer **https://g.dev/Ankit-3000**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1O1WzhkOt9HU5C8Ugyx9l5RFyhIMO0DXjz2jb7DKpRkI/edit?usp=sharing](https://docs.google.com/document/d/1O1WzhkOt9HU5C8Ugyx9l5RFyhIMO0DXjz2jb7DKpRkI/edit?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,6 +30,8 @@
 <a href="https://instagram.com/__ankitsonkar__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__ankitsonkar__" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ankit_bps2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ankit_bps2000" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/_ankitsonkar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_ankitsonkar_" height="30" width="40" /></a>
+
+- 📫 Message me **ankit.vns2000@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,12 +39,14 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-neticon&show_icons=true&locale=en&layout=compact" alt="ankit-neticon" /></p>
 
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-neticon&show_icons=true&locale=en" alt="ankit-neticon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-neticon&" alt="ankit-neticon" />
 <img align="right" alt="Coding" width="300"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" ></p>
 
-
+- 📄 Download My CV [https://docs.google.com/document/d/1O1WzhkOt9HU5C8Ugyx9l5RFyhIMO0DXjz2jb7DKpRkI/edit?usp=sharing](https://docs.google.com/document/d/1O1WzhkOt9HU5C8Ugyx9l5RFyhIMO0DXjz2jb7DKpRkI/edit?usp=sharing)
  
         
 
